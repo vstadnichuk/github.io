@@ -1,0 +1,33 @@
+---
+title: "Publications"
+toc: true
+---
+
+## Working Papers
+
+**V. Stadnichuk.**  
+*A Catalog of Formulations for the Multi-Follower Discrete Bilevel Network Design Problem.*   
+[Optimization Online](https://optimization-online.org/2026/06/a-catalog-of-formulations-for-the-multi-follower-discrete-bilevel-network-design-problem/)
+
+**V. Stadnichuk, S. Bogs, A. Abdelshafy, G. Walther.**  
+*Towards an Optimum Carbon Backbone: A Bilevel Model Approach for Efficient CO2 Pipeline Design and Price Policy in Germany.*  
+[ResearchGate](http://dx.doi.org/10.13140/RG.2.2.36717.09445)
+
+**V. Stadnichuk, A. Koster.**  
+*Solving Multi-Follower Mixed-Integer Bilevel Problems with Binary Linking Variables.*   
+[Optimization Online](https://optimization-online.org/?p=28877)
+
+
+## Published Articles
+
+**V. Stadnichuk, M. Schiffer, G. Walther.**  
+*Analyzing the Potentials of Car-Free Zones in Munich.*  
+European Journal of Operational Research, 2026. [DOI](https://doi.org/10.1016/j.ejor.2026.06.032)
+
+**V. Stadnichuk, J. Segschneider, A. Koster, G. Walther.**  
+*Integrated Optimization of Timetabling and Electric Vehicle Scheduling: A Case Study of Aachen, Germany.*  
+EURO Journal on Transportation and Logistics, 2025. [DOI](https://doi.org/10.1016/j.ejtl.2025.100168)
+
+**V. Stadnichuk, L. Merten, C. Larisch, G. Walther.**  
+*Optimisation of Mobility Hub Locations for a Sustainable Mobility System.*  
+Transportation Research Interdisciplinary Perspectives, Volume 26, 2024. [DOI](https://doi.org/10.1016/j.trip.2024.101193)

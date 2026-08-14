@@ -1,0 +1,31 @@
+---
+title: "Teaching"
+toc: true
+---
+
+## RWTH Aachen University
+
+- **Advanced Planning in Production and Logistics** — 2023–2025, Supervisor
+- **Linear Algebra** — 2017–2020, Student Assistant
+- **Numerical Mathematics for Engineers** — 2017, Student Assistant
+- **Mathematics Preparatory Course** — 2017–2020, Student Assistant
+
+
+## Supervised Theses
+
+### Master's Theses
+
+- *Entering New Markets as a Mobility as a Service Operator – Recommendations Based on Mathematical Optimization*
+- *Electric Bus Scheduling: A Modeling Approach Using Bin Packing with Conflicts*
+- *The Unrelated Parallel Machine Scheduling Problem: Applying Operations Research Methods to Create Optimal Cleaning Schedules for Chocolate Molds at Lindt & Sprüngli GmbH*
+- *Application of Electric Vehicle Scheduling Problem Models to the City of Aachen*
+
+### Bachelor's Theses
+
+- *Mobility as a Service – Feasibility of a Modeling Approach Based on the Multicommodity Flow Problem*
+- *A Literature Review of the Hazmat Transportation Problem*
+- *The Delivery Selection Problem – Application to a Case at Mercedes-Benz*
+- *A Literature Review of MIP and CP Approaches Using Different Optimization Problems as Examples*
+- *Analysis of Optimization Models for Decision-Making Processes in Social Networks*
+- *A Literature Review of the Graph Drawing Problem*
+- *Planning and Optimization of Cabling in Wind Farms*

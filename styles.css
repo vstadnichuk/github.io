@@ -1,0 +1,18 @@
+/* Keep this file small at first.
+   You can gradually customize the site here. */
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+main {
+  line-height: 1.65;
+}
+
+h1, h2 {
+  letter-spacing: -0.02em;
+}
+
+a {
+  text-underline-offset: 0.15em;
+}

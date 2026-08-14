@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am currently a research assistant in the Algorithmic Algebra and Discrete Mathematics group at the University of Kassel, where I work on the research project HALMA (“Hochschulübergreifend adaptive Lernwege Mathematik”). My work focuses on analyzing and improving curricula for mathematics courses in engineering programs. Before joining the University of Kassel, I completed my PhD at the Chair of Operations Management at RWTH Aachen University.\nMy research focuses on bilevel optimization, with particular emphasis on developing novel solution methods for challenging real-world applications in mobility and infrastructure planning.\n\n\n\n\n\nBilevel optimization\nBilevel network design\nMixed-integer programming\nDecomposition methods\nTransportation and mobility systems\n\n\n\n\n\n🎓 PhD in Mathematical Optimization, RWTH Aachen University\nChair of Operations Management, 2021–2026\n🎓 M.Sc. Mathematics, RWTH Aachen University\nMinor in Computer Science, 2018–2020\nwith distinction\n🎓 B.Sc. Mathematics, RWTH Aachen University\nMinor in Computer Science, 2015–2018\n\n\n\n\n\n24 November 2026 — BOS Webinar Series\nI will give a talk in the Bilevel Optimization Society (BOS) Webinar Series.\n1–4 September 2026 — OR 2026\nI will present at the International Conference on Operations Research (OR 2026) in Passau, Germany.\n15 August 2026 — PhD Defense\nI defended my PhD at RWTH Aachen University.\n1 January 2026 — New position at the University of Kassel\nI started my new position as a research assistant in the Algorithmic Algebra and Discrete Mathematics group at the University of Kassel.\n4–6 August 2025 — FRICO 2025\nThe 28th Workshop on Future Research in Combinatorial Optimization (FRICO 2025) is taking place at RWTH Aachen University. I am part of the organizing team of this year’s workshop."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "About Me",
+    "section": "",
+    "text": "Bilevel optimization\nBilevel network design\nMixed-integer programming\nDecomposition methods\nTransportation and mobility systems"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "I studied mathematics at RWTH Aachen University with computer science as a minor, completing both my B.Sc. and M.Sc. there.\nMy work combines mathematical modeling, algorithm design, and computational optimization."
+  },
+  {
+    "objectID": "index.html#elsewhere",
+    "href": "index.html#elsewhere",
+    "title": "About Me",
+    "section": "",
+    "text": "Use the icons in the navigation bar to find me on LinkedIn, ResearchGate, and GitHub, or to send me an email."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Selected Talks",
+    "section": "",
+    "text": "Analyzing the Potentials of Car-Free Zones in Munich\n29th Workshop on Future Research in Combinatorial Optimization (FRICO 2026), TU Berlin, Berlin, Germany — August 12, 2026.\nAutomated Benders-like Cut Generation and its Application to the Bilevel Network Design Problem\n12th International Network Optimization Conference (INOC 2026), HEC Liège, Liège, Belgium — April 23, 2026."
+  },
+  {
+    "objectID": "talks.html#section",
+    "href": "talks.html#section",
+    "title": "Selected Talks",
+    "section": "",
+    "text": "Analyzing the Potentials of Car-Free Zones in Munich\n29th Workshop on Future Research in Combinatorial Optimization (FRICO 2026), TU Berlin, Berlin, Germany — August 12, 2026.\nAutomated Benders-like Cut Generation and its Application to the Bilevel Network Design Problem\n12th International Network Optimization Conference (INOC 2026), HEC Liège, Liège, Belgium — April 23, 2026."
+  },
+  {
+    "objectID": "talks.html#section-1",
+    "href": "talks.html#section-1",
+    "title": "Selected Talks",
+    "section": "2025",
+    "text": "2025\nAutomated Logic Based Benders Decomposition\nAnnual Conference of the Society for Operations Research in Germany (GOR), Bielefeld, Germany — September 3, 2025.\nSolving Multi-Follower Mixed-Integer Bilevel Problems with Binary Linking Variables\n34th European Conference on Operational Research (EURO), Leeds, United Kingdom — June 23, 2025."
+  },
+  {
+    "objectID": "talks.html#section-2",
+    "href": "talks.html#section-2",
+    "title": "Selected Talks",
+    "section": "2024",
+    "text": "2024\nThe Hazmat Transport Network Design Problem with Uncertainty\n27th Workshop on Future Research in Combinatorial Optimization (FRICO 2024), Otto von Guericke University Magdeburg, Magdeburg, Germany — September 10, 2024.\nThe Electric Hazmat Transportation Network Design Problem\nAnnual Conference of the Society for Operations Research in Germany (GOR), Munich, Germany — September 2024.\nTowards an Optimum Carbon Backbone: A Bilevel Model Approach for Efficient CO2 Pipeline Design and Price Policy in Germany\n33rd European Conference on Operational Research (EURO), Copenhagen, Denmark — June/July 2024."
+  },
+  {
+    "objectID": "talks.html#section-3",
+    "href": "talks.html#section-3",
+    "title": "Selected Talks",
+    "section": "2023",
+    "text": "2023\nBilevel Models in Transport Network Design: A Study on Exact Algorithms\n26th Workshop on Future Research in Combinatorial Optimization (FRICO 2023), Eindhoven University of Technology, Eindhoven, The Netherlands — August 16, 2023.\nPlanning of Large-Scale Car-Free Zones\nLogistikmanagement 2023, Dresden, Germany — September 2023."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "V. Stadnichuk.\nA Catalog of Formulations for the Multi-Follower Discrete Bilevel Network Design Problem.\nOptimization Online\nV. Stadnichuk, S. Bogs, A. Abdelshafy, G. Walther.\nTowards an Optimum Carbon Backbone: A Bilevel Model Approach for Efficient CO2 Pipeline Design and Price Policy in Germany.\nResearchGate\nV. Stadnichuk, A. Koster.\nSolving Multi-Follower Mixed-Integer Bilevel Problems with Binary Linking Variables.\nOptimization Online"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-journal-articles",
+    "href": "publications.html#peer-reviewed-journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "V. Stadnichuk, J. Segschneider, A. Koster, G. Walther.\nIntegrated Optimization of Timetabling and Electric Vehicle Scheduling: A Case Study of Aachen, Germany.\nEURO Journal on Transportation and Logistics, 2025.\nDOI\nV. Stadnichuk, L. Merten, C. Larisch, G. Walther.\nOptimisation of mobility hub locations for a sustainable mobility system.\nTransportation Research Interdisciplinary Perspectives, Volume 26, 2024.\nDOI"
+  },
+  {
+    "objectID": "publications.html#preprints-and-working-papers",
+    "href": "publications.html#preprints-and-working-papers",
+    "title": "Publications",
+    "section": "Preprints and working papers",
+    "text": "Preprints and working papers\nV. Stadnichuk, S. Bogs, A. Abdelshafy, G. Walther.\nTowards an optimum carbon backbone: A Bilevel Model Approach for Efficient CO2 Pipeline Design and Price Policy in Germany.\n2025.\nDOI / ResearchGate record\nV. Stadnichuk, A. Koster.\nSolving Multi-Follower Mixed-Integer Bilevel Problems with Binary Linking Variables.\nOptimization Online, 2024.\nOptimization Online\nV. Stadnichuk, G. Walther, M. Schiffer.\nAnalyzing the Potentials of Car-Free Zones in Munich.\nUnder review; draft available on request.\nV. Stadnichuk, G. Walther, M. Schiffer.\nA Guide on MIP-Formulations for Bilevel Transit Network Design Applications.\nInvited review; draft available on request."
+  },
+  {
+    "objectID": "publications.html#profiles",
+    "href": "publications.html#profiles",
+    "title": "Publications",
+    "section": "Profiles",
+    "text": "Profiles\nFor additional publication information, see my ResearchGate profile."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "This page will collect software, implementations, and open-source projects related to my research."
+  },
+  {
+    "objectID": "software.html#programming-and-optimization",
+    "href": "software.html#programming-and-optimization",
+    "title": "Software",
+    "section": "Programming and optimization",
+    "text": "Programming and optimization\nI work with:\n\nProgramming languages: C++, Java, Julia, Python\nMIP solvers: Gurobi, SCIP\nOther tools: Git, LaTeX"
+  },
+  {
+    "objectID": "software.html#public-repositories",
+    "href": "software.html#public-repositories",
+    "title": "Software",
+    "section": "Public repositories",
+    "text": "Public repositories\nYou can browse my public work on GitHub.\n\n\n\n\n\n\nNoteNext step\n\n\n\nReplace this box with selected projects once you decide which repositories you want to highlight.\nA useful format is: project name → one-sentence description → technologies → GitHub link."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "🎓 PhD in Mathematical Optimization, RWTH Aachen University\nChair of Operations Management, 2021–2026\n🎓 M.Sc. Mathematics, RWTH Aachen University\nMinor in Computer Science, 2018–2020\nwith distinction\n🎓 B.Sc. Mathematics, RWTH Aachen University\nMinor in Computer Science, 2015–2018"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "About Me",
+    "section": "",
+    "text": "24 November 2026 — BOS Webinar Series\nI will give a talk in the Bilevel Optimization Society (BOS) Webinar Series.\n1–4 September 2026 — OR 2026\nI will present at the International Conference on Operations Research (OR 2026) in Passau, Germany.\n15 August 2026 — PhD Defense\nI defended my PhD at RWTH Aachen University.\n1 January 2026 — New position at the University of Kassel\nI started my new position as a research assistant in the Algorithmic Algebra and Discrete Mathematics group at the University of Kassel.\n4–6 August 2025 — FRICO 2025\nThe 28th Workshop on Future Research in Combinatorial Optimization (FRICO 2025) is taking place at RWTH Aachen University. I am part of the organizing team of this year’s workshop."
+  },
+  {
+    "objectID": "publications.html#working-papers",
+    "href": "publications.html#working-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "V. Stadnichuk.\nA Catalog of Formulations for the Multi-Follower Discrete Bilevel Network Design Problem.\nOptimization Online\nV. Stadnichuk, S. Bogs, A. Abdelshafy, G. Walther.\nTowards an Optimum Carbon Backbone: A Bilevel Model Approach for Efficient CO2 Pipeline Design and Price Policy in Germany.\nResearchGate\nV. Stadnichuk, A. Koster.\nSolving Multi-Follower Mixed-Integer Bilevel Problems with Binary Linking Variables.\nOptimization Online"
+  },
+  {
+    "objectID": "publications.html#published-articles",
+    "href": "publications.html#published-articles",
+    "title": "Publications",
+    "section": "Published Articles",
+    "text": "Published Articles\nV. Stadnichuk, M. Schiffer, G. Walther.\nAnalyzing the Potentials of Car-Free Zones in Munich.\nEuropean Journal of Operational Research, 2026. DOI\nV. Stadnichuk, J. Segschneider, A. Koster, G. Walther.\nIntegrated Optimization of Timetabling and Electric Vehicle Scheduling: A Case Study of Aachen, Germany.\nEURO Journal on Transportation and Logistics, 2025. DOI\nV. Stadnichuk, L. Merten, C. Larisch, G. Walther.\nOptimisation of Mobility Hub Locations for a Sustainable Mobility System.\nTransportation Research Interdisciplinary Perspectives, Volume 26, 2024. DOI"
+  },
+  {
+    "objectID": "talks.html#conference-organization",
+    "href": "talks.html#conference-organization",
+    "title": "Selected Talks",
+    "section": "Conference Organization",
+    "text": "Conference Organization\nFRICO 2025 — Organizing Committee\n28th Workshop on Future Research in Combinatorial Optimization, RWTH Aachen University, Aachen, Germany — August 3–6, 2025."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Advanced Planning in Production and Logistics — 2023–2025, Supervisor\nLinear Algebra — 2017–2020, Student Assistant\nNumerical Mathematics for Engineers — 2017, Student Assistant\nMathematics Preparatory Course — 2017–2020, Student Assistant"
+  },
+  {
+    "objectID": "teaching.html#teaching-during-my-phd",
+    "href": "teaching.html#teaching-during-my-phd",
+    "title": "Teaching",
+    "section": "",
+    "text": "Exercise instructor, RWTH Aachen University\nSummer semesters, 2023–2025\nI served as an exercise instructor for the Master’s-level course Advanced Planning in Production and Logistic.\n\n\n\nRWTH Aachen University, 2021–2025\nSupervision of numerous Bachelor’s and Master’s seminars and theses.\n\n\n\nRWTH Aachen University, 2021–2025\nImplementation of examination tasks in the Dynexity software environment."
+  },
+  {
+    "objectID": "teaching.html#earlier-teaching-experience",
+    "href": "teaching.html#earlier-teaching-experience",
+    "title": "Teaching",
+    "section": "Earlier teaching experience",
+    "text": "Earlier teaching experience\n\nLinear Algebra\nTutor, Chair of Mathematics, RWTH Aachen University\n2017–2020\nTutor for undergraduate Linear Algebra courses.\n\n\nNumerical Mathematics for Engineers\nTutor, Institute for Geometry and Practical Mathematics, RWTH Aachen University\n2017\nTutor for Numerical Mathematics for engineering students.\n\n\nMathematics Preparatory Course\nTutor, RWTH Aachen University\nSummers 2017–2020\nTutor in the mathematics preparatory course for incoming students."
+  },
+  {
+    "objectID": "teaching.html#rwth-aachen-university",
+    "href": "teaching.html#rwth-aachen-university",
+    "title": "Teaching",
+    "section": "",
+    "text": "Advanced Planning in Production and Logistics — 2023–2025, Supervisor\nLinear Algebra — 2017–2020, Student Assistant\nNumerical Mathematics for Engineers — 2017, Student Assistant\nMathematics Preparatory Course — 2017–2020, Student Assistant"
+  },
+  {
+    "objectID": "teaching.html#supervised-theses",
+    "href": "teaching.html#supervised-theses",
+    "title": "Teaching",
+    "section": "Supervised Theses",
+    "text": "Supervised Theses\n\nMaster’s Theses\n\nEntering New Markets as a Mobility as a Service Operator – Recommendations Based on Mathematical Optimization\nElectric Bus Scheduling: A Modeling Approach Using Bin Packing with Conflicts\nThe Unrelated Parallel Machine Scheduling Problem: Applying Operations Research Methods to Create Optimal Cleaning Schedules for Chocolate Molds at Lindt & Sprüngli GmbH\nApplication of Electric Vehicle Scheduling Problem Models to the City of Aachen\n\n\n\nBachelor’s Theses\n\nMobility as a Service – Feasibility of a Modeling Approach Based on the Multicommodity Flow Problem\nA Literature Review of the Hazmat Transportation Problem\nThe Delivery Selection Problem – Application to a Case at Mercedes-Benz\nA Literature Review of MIP and CP Approaches Using Different Optimization Problems as Examples\nAnalysis of Optimization Models for Decision-Making Processes in Social Networks\nA Literature Review of the Graph Drawing Problem\nPlanning and Optimization of Cabling in Wind Farms"
+  }
+]

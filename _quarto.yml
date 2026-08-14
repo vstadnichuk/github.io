@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+
+# _quarto.yml
+
+website:
+  title: "Vladimir Stadnichuk"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "About Me"
+      - href: publications.qmd
+        text: "Publications"
+      - href: talks.qmd
+        text: "Talks"
+      - href: teaching.qmd
+        text: "Teaching"
+
+    tools:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/v-stadnichuk/"
+        aria-label: "LinkedIn"
+      - icon: journal-text
+        href: "https://www.researchgate.net/profile/Vladimir-Stadnichuk-2"
+        aria-label: "ResearchGate"
+      - icon: github
+        href: "https://github.com/vstadnichuk/"
+        aria-label: "GitHub"
+      - icon: person-badge
+        href: "https://orcid.org/0009-0007-8733-8811"
+        aria-label: "ORCID"
+      - icon: envelope
+        href: "mailto:vladimir.stadnichuk@uni-kassel.de"
+        aria-label: "Email"
+
+  page-footer:
+    left: "© 2026 Vladimir Stadnichuk"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    fontsize: 1.3em
+    toc: false
+    grid:
+      body-width: 1400px
+      margin-width: 200px
+      gutter-width: 1.5rem
+
+execute:
+  freeze: auto

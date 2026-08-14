@@ -1,0 +1,41 @@
+---
+title: "Selected Talks"
+toc: true
+---
+
+## 2026
+
+**Analyzing the Potentials of Car-Free Zones in Munich**  
+[29th Workshop on Future Research in Combinatorial Optimization (FRICO 2026)](https://www3.math.tu-berlin.de/combi/frico26/), TU Berlin, Berlin, Germany — August 12, 2026.  
+
+**Automated Benders-like Cut Generation and its Application to the Bilevel Network Design Problem**  
+[12th International Network Optimization Conference (INOC 2026)](https://www.euro-online.org/inoc2026/), HEC Liège, Liège, Belgium — April 23, 2026.  
+
+## 2025
+
+**Automated Logic Based Benders Decomposition**  
+Annual Conference of the Society for Operations Research in Germany (GOR), Bielefeld, Germany — September 3, 2025.
+
+**Solving Multi-Follower Mixed-Integer Bilevel Problems with Binary Linking Variables**  
+34th European Conference on Operational Research (EURO), Leeds, United Kingdom — June 23, 2025.
+
+
+## 2024
+
+**The Hazmat Transport Network Design Problem with Uncertainty**  
+[27th Workshop on Future Research in Combinatorial Optimization (FRICO 2024)](https://frico2024.ovgu.de/), Otto von Guericke University Magdeburg, Magdeburg, Germany — September 10, 2024.
+
+**The Electric Hazmat Transportation Network Design Problem**  
+Annual Conference of the Society for Operations Research in Germany (GOR), Munich, Germany — September 2024.
+
+**Towards an Optimum Carbon Backbone: A Bilevel Model Approach for Efficient CO2 Pipeline Design and Price Policy in Germany**  
+33rd European Conference on Operational Research (EURO), Copenhagen, Denmark — June/July 2024.
+
+
+## 2023
+
+**Bilevel Models in Transport Network Design: A Study on Exact Algorithms**  
+[26th Workshop on Future Research in Combinatorial Optimization (FRICO 2023)](https://frico2023.pages.tue.nl/pages/), Eindhoven University of Technology, Eindhoven, The Netherlands — August 16, 2023.
+
+**Planning of Large-Scale Car-Free Zones**  
+Logistikmanagement 2023, Dresden, Germany — September 2023.
