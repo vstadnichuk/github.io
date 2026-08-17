@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "I am currently a research assistant in the Algorithmic Algebra and Discrete Mathematics group at the University of Kassel, where I work on the research project HALMA (“Hochschulübergreifend adaptive Lernwege Mathematik”). My work focuses on analyzing and improving curricula for mathematics courses in engineering programs. Before joining the University of Kassel, I completed my PhD at the Chair of Operations Management at RWTH Aachen University.\nMy research focuses on bilevel optimization, with particular emphasis on developing novel solution methods for challenging real-world applications in mobility and infrastructure planning.\n\n\n\n\n\nBilevel optimization\nBilevel network design\nMixed-integer programming\nDecomposition methods\nTransportation and mobility systems\n\n\n\n\n\n🎓 PhD in Mathematical Optimization, RWTH Aachen University\nChair of Operations Management, 2021–2026\n🎓 M.Sc. Mathematics, RWTH Aachen University\nMinor in Computer Science, 2018–2020\nwith distinction\n🎓 B.Sc. Mathematics, RWTH Aachen University\nMinor in Computer Science, 2015–2018\n\n\n\n\n\n24 November 2026 — BOS Webinar Series\nI will give a talk in the Bilevel Optimization Society (BOS) Webinar Series.\n1–4 September 2026 — OR 2026\nI will present at the International Conference on Operations Research (OR 2026) in Passau, Germany.\n15 August 2026 — PhD Defense\nI defended my PhD at RWTH Aachen University.\n1 January 2026 — New position at the University of Kassel\nI started my new position as a research assistant in the Algorithmic Algebra and Discrete Mathematics group at the University of Kassel.\n4–6 August 2025 — FRICO 2025\nThe 28th Workshop on Future Research in Combinatorial Optimization (FRICO 2025) is taking place at RWTH Aachen University. I am part of the organizing team of this year’s workshop."
+    "text": "I am currently a research assistant in the Algorithmic Algebra and Discrete Mathematics group at the University of Kassel, where I work on the research project HALMA (“Hochschulübergreifend adaptive Lernwege Mathematik”). My work focuses on analyzing and improving curricula for mathematics courses in engineering programs. Before joining the University of Kassel, I completed my PhD at the Chair of Operations Management at RWTH Aachen University.\nMy research focuses on bilevel optimization, with particular emphasis on developing novel solution methods for challenging real-world applications in mobility and infrastructure planning."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "About Me",
-    "section": "",
-    "text": "Bilevel optimization\nBilevel network design\nMixed-integer programming\nDecomposition methods\nTransportation and mobility systems"
+    "section": "Research interests",
+    "text": "Research interests\n\nBilevel optimization\nBilevel network design\nMixed-integer programming\nDecomposition methods\nTransportation and mobility systems"
   },
   {
     "objectID": "index.html#background",
@@ -115,15 +115,15 @@
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "About Me",
-    "section": "",
-    "text": "🎓 PhD in Mathematical Optimization, RWTH Aachen University\nChair of Operations Management, 2021–2026\n🎓 M.Sc. Mathematics, RWTH Aachen University\nMinor in Computer Science, 2018–2020\nwith distinction\n🎓 B.Sc. Mathematics, RWTH Aachen University\nMinor in Computer Science, 2015–2018"
+    "section": "Education",
+    "text": "Education\n🎓 PhD in Mathematical Optimization, RWTH Aachen University\nChair of Operations Management, 2021–2026\n🎓 M.Sc. Mathematics, RWTH Aachen University\nMinor in Computer Science, 2018–2020\nwith distinction\n🎓 B.Sc. Mathematics, RWTH Aachen University\nMinor in Computer Science, 2015–2018"
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
     "title": "About Me",
-    "section": "",
-    "text": "24 November 2026 — BOS Webinar Series\nI will give a talk in the Bilevel Optimization Society (BOS) Webinar Series.\n1–4 September 2026 — OR 2026\nI will present at the International Conference on Operations Research (OR 2026) in Passau, Germany.\n15 August 2026 — PhD Defense\nI defended my PhD at RWTH Aachen University.\n1 January 2026 — New position at the University of Kassel\nI started my new position as a research assistant in the Algorithmic Algebra and Discrete Mathematics group at the University of Kassel.\n4–6 August 2025 — FRICO 2025\nThe 28th Workshop on Future Research in Combinatorial Optimization (FRICO 2025) is taking place at RWTH Aachen University. I am part of the organizing team of this year’s workshop."
+    "section": "News",
+    "text": "News\n24 November 2026 — BOS Webinar Series\nI will give a talk in the Bilevel Optimization Society (BOS) Webinar Series.\n1–4 September 2026 — OR 2026\nI will present at the International Conference on Operations Research (OR 2026) in Passau, Germany.\n15 August 2026 — PhD Defense\nI defended my PhD at RWTH Aachen University.\n1 January 2026 — New position at the University of Kassel\nI started my new position as a research assistant in the Algorithmic Algebra and Discrete Mathematics group at the University of Kassel.\n4–6 August 2025 — FRICO 2025\nThe 28th Workshop on Future Research in Combinatorial Optimization (FRICO 2025) is taking place at RWTH Aachen University. I am part of the organizing team of this year’s workshop."
   },
   {
     "objectID": "publications.html#working-papers",

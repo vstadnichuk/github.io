@@ -3,11 +3,23 @@ title: "About Me"
 page-layout: article
 ---
 
+::: {.profile-grid}
+
+::: {.profile-photo}
+![](assets/me.jpg){.profile-image fig-alt="Vladimir Stadnichuk"}
+:::
+
+::: {.profile-text}
+
 # Vladimir Stadnichuk
 
-I am currently a research assistant in the **Algorithmic Algebra and Discrete Mathematics group at the University of Kassel**, where I work on the research project **HALMA** (“Hochschulübergreifend adaptive Lernwege Mathematik”). My work focuses on analyzing and improving curricula for mathematics courses in engineering programs. Before joining the University of Kassel, I completed my PhD at the Chair of Operations Management at RWTH Aachen University.
+I am currently a research assistant in the Algorithmic Algebra and Discrete Mathematics group at the University of Kassel, where I work on the research project HALMA (“Hochschulübergreifend adaptive Lernwege Mathematik”). My work focuses on analyzing and improving curricula for mathematics courses in engineering programs. Before joining the University of Kassel, I completed my PhD at the Chair of Operations Management at RWTH Aachen University.
 
-My research focuses on **bilevel optimization**, with particular emphasis on developing novel solution methods for challenging real-world applications in mobility and infrastructure planning.
+My research focuses on bilevel optimization, with particular emphasis on developing novel solution methods for challenging real-world applications in mobility and infrastructure planning.
+
+:::
+
+:::
 
 ::: {.columns}
 

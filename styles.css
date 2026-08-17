@@ -1,18 +1,79 @@
-/* Keep this file small at first.
-   You can gradually customize the site here. */
+/* Desktop font size is controlled by:
+   fontsize: 1.3em
+   in _quarto.yml
+*/
 
-.navbar-brand {
-  font-weight: 600;
+
+/* ---------- Profile ---------- */
+
+.profile-grid {
+  display: grid;
+  grid-template-columns: minmax(180px, 260px) minmax(0, 1fr);
+  gap: 3rem;
+  align-items: center;
+  margin-bottom: 2rem;
 }
 
-main {
-  line-height: 1.65;
+.profile-photo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-h1, h2 {
-  letter-spacing: -0.02em;
+.profile-image {
+  width: min(100%, 240px);
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  display: block;
 }
 
-a {
-  text-underline-offset: 0.15em;
+.profile-text {
+  min-width: 0;
+}
+
+.profile-text h1 {
+  margin-top: 0;
+}
+
+
+/* ---------- Mobile ---------- */
+
+@media screen and (max-width: 768px) {
+
+  html {
+    font-size: 15px !important;
+  }
+
+  .profile-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .profile-image {
+    width: min(50vw, 200px);
+  }
+
+  .profile-text h1 {
+    text-align: center;
+  }
+
+  main {
+    line-height: 1.6;
+  }
+}
+
+
+/* ---------- Small phones ---------- */
+
+@media screen and (max-width: 480px) {
+
+  html {
+    font-size: 14px !important;
+  }
+
+  .profile-image {
+    width: min(55vw, 180px);
+  }
 }

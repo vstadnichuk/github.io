@@ -2,10 +2,9 @@ project:
   type: website
   output-dir: docs
 
-# _quarto.yml
-
 website:
   title: "Vladimir Stadnichuk"
+
   navbar:
     left:
       - href: index.qmd
@@ -45,7 +44,7 @@ format:
     fontsize: 1.3em
     toc: false
     grid:
-      body-width: 1400px
+      body-width: 1200px
       margin-width: 200px
       gutter-width: 1.5rem
 
